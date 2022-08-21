@@ -56,7 +56,8 @@ author:
   avatar           : "profile.png"
   bio              : "Research Assistant, MS in Experimental Economics"
   location         : "Xi'an, China"
-  employer         : "Center for Experimental Economics in Education"
+  employer         : "Center for Experimental 
+                      Economics in Education"
   email            : "songshuyisunny@gmail.com"
   github           : "Shuyi-Song"
 
@@ -152,10 +153,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  #_experience
   - scope:
       path: ""
-      type: teaching
+      type: experience
     values:
       layout: single
       author_profile: true
@@ -170,24 +171,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+ 
 # Sass/SCSS
 sass:
   sass_dir: _sass
