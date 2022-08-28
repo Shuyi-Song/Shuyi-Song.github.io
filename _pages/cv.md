@@ -1,11 +1,11 @@
 ---
----
-layout: cv
+layout: archive
+title: "CV"
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
+author_profile: true
 cv_pdf: CV_Shuyi Song 2022.pdf
+---
+
 ---
 
 ---
