@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my webpage. I am a research assistant at Center for Experimental Economics in Education (CEEE). I obtained my Master's degree in Experimental Economics from Shaanxi Normal University in 2022, supervised by [Prof. Yaojiang Shi](https://scholar.google.com/citations?user=ZtZi5T8AAAAJ&hl=en), and my Bachelor degree in Food Quality and Safety from Northwest A&F University in 2019.
+Hello! Welcome to my webpage. I am a research assistant at Center for Experimental Economics in Education (CEEE). I obtained my Master's degree in Experimental Economics from Shaanxi Normal University in 2022, supervised by [Prof. Yaojiang Shi](https://scholar.google.com/citations?user=ZtZi5T8AAAAJ&hl=en), and my Bachelor's degree in Food Quality and Safety from Northwest A&F University in 2019.
 
 My research interests include maternal and child health, as well as health systems in China and other low-and middle-income countries, with a focus on quality, equity, and access to healthcare.
 
