@@ -9,9 +9,9 @@ redirect_from:
 ---
 About me
 ======
-Welcome to my website. I am a research assistant at the Center for Experimental Economics in Education (CEEE). I obtained my Master's degree in Experimental Economics from Shaanxi Normal University in 2022, supervised by [Prof. Yaojiang Shi](https://scholar.google.com/citations?user=ZtZi5T8AAAAJ&hl=en), and my Bachelor's degree in Food Quality and Safety from Northwest A&F University in 2019.
+Welcome to my website. I am a PhD student in Health Policy and Management with a minor in Economics at UNC Chapel Hill, supervised by [Dr. Sean Yuji Sylvia](https://ssylvia.io/). I obtained my MSc in Experimental Economics from Shaanxi Normal University, supervised by [Dr. Yaojiang Shi](https://scholar.google.com/citations?user=ZtZi5T8AAAAJ&hl=en), and my BEng in Food Quality and Safety from Northwest A&F University.
 
 
 Research Interests
 ======
-I am broadly interested in health economics, public policy, and global development. Currently, my research focuses on maternal and child health, and health systems in low-and middle-income countries, with an emphasis on quality, equity, and access to healthcare.
+I am broadly interested in digital health and global development. Currently, my research focuses on maternal and child health, and health systems in low-and middle-income countries, with an emphasis on quality, equity, and access to healthcare.
