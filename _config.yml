@@ -3,7 +3,7 @@
 locale                   : "Xi'an, China"
 title                    : "Shuyi Song"
 name                     : &name "Shuyi Song"
-description              : &description "Research Assistant"
+description              : &description "PhD Student"
 url                      : https://shuyi-song.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shuyi-Song/shuyi-song.github.io"
